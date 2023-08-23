@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">quizapp</string>
+    <string-array name="userTypeOptions">
+        <item>Student</item>
+        <item>Teacher</item>
+    </string-array>
+</resources>
